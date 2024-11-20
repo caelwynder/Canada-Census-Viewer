@@ -8,7 +8,8 @@ This website is a project that I created where you can view highlighed census di
 
 ## Timeline
 
-- 10/21/2024 The website was completed.
+- 10/23/2024 Website was finished
+- 10/21/2024 Scope expanded to all of Canada
 - 10/19/2024 Scale of the project grew and I started working on all of Ontario
 - 10/15/2024 Inital website was finished.
 - 10/13/2024 The project was started originally to view London Ontarios Ward Population.
